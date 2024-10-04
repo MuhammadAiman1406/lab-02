@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Team Name: Lidia Lomakina, Leo Lin, User3, User4, User5 and User6"
+author: "Team Name: Lidia Lomakina, Leo Lin, Hylda Azizi, Ci Xu , User5 and User6"
 date: "`r Sys.Date()`"
 output: html_document
 ---
